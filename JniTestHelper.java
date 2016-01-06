@@ -1,3 +1,4 @@
+/*服务器中第一次加注释*/
 package org.cocos2dx.cpp;
 import android.os.Handler;
 import android.os.Message;
